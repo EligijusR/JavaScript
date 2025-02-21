@@ -12,5 +12,5 @@ let gimimoMetai = 1997;
 let dabartiniaiMetai = 2022;
 tekstas= `${vardas} ${pavarde} man yra ${dabartiniaiMetai-gimimoMetai} metai`
 console.log(tekstas.length)
-kitasVardas = 'MANI varDas Yra';
+kitasVardas = 'MANo varDas Yra';
 console.log(kitasVardas.charAT(0));
